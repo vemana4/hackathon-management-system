@@ -1,8 +1,8 @@
-# 🚀 Srujana Hackathon Platform
+# Hackathon Management System
 
 [![Python Version](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org) [![Flask](https://img.shields.io/badge/Backend-Flask-green)](https://flask.palletsprojects.com) [![SQLite](https://img.shields.io/badge/DB-SQLite-blue)](https://www.sqlite.org)
 
-A web application developed for the Srujana Hackathon. Features tender bidding mechanisms, collaborative project workspaces, document submission panels, and AI-driven bids audit services.
+Hackathon management platform featuring tender bidding, collaborative workspaces, and AI-driven bid auditing.
 
 ## 🚀 Key Technologies
 - **Web Server**: Flask (Python)
